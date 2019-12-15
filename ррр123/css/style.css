@@ -1,0 +1,52 @@
+body{
+    background: black;
+   color: chartreuse;
+   font-family: Arial, Helvetica, sans-serif;
+   }
+   a{
+    font-size: 8px;  
+    }
+    p{
+     text-indent: 25px; 
+    }
+    i{
+      text-decoration: crimson;
+    }
+    ul{
+      list-style-type:sp ;
+    }
+    p:first-letter {
+    font-size: 36px;
+    color: crimson;
+    }
+    body{
+      background:#000000; 
+     /* url(https://img.freepik.com/free-vector/_23-2148258092.jpg?size=626&ext=jpg) no-repeat; */
+     /* center center fixed; */
+     background-size: cover;
+    }
+    
+    .bloked{
+    display: inline-block;
+    border-color:chartreuse;
+    border-width: 10px;
+    border-style: dotted;
+    width: 40%;
+    margin: 20px;
+    }
+    .menu { width: 300px; }
+    .menu a {
+      border-top: 10px solid green;
+    }
+    .menu {
+      border-bottom: 10px solid green;
+    }
+    .menu a {
+      text-decoration: none;
+      font-family: sans-serif;
+      color: #5757a0;
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: lavender;
+      border-bottom: 5px solid #5757a0;
+    }
